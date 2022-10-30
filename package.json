@@ -1,0 +1,26 @@
+{
+  "name": "json-rpc-2.0-issue-41",
+  "version": "0.1.0",
+  "description": "MWE of shogowada/json-rpc-2.0#41",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Segev Finer <segev208@gmail.com>",
+  "license": "Unlicense",
+  "packageManager": "pnpm@7.14.1",
+  "engines": {
+    "node": ">=16",
+    "pnpm": ">=7"
+  },
+  "dependencies": {
+    "json-rpc-2.0": "^1.4.1"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
+    "@types/node": "16",
+    "typescript": "~4.8.4"
+  }
+}
