@@ -1,6 +1,7 @@
 {
   "name": "json-rpc-2.0-issue-41",
   "version": "0.1.0",
+  "private": true,
   "description": "MWE of shogowada/json-rpc-2.0#41",
   "scripts": {
     "build": "tsc",
